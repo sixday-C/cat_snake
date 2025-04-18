@@ -1,3 +1,3 @@
 ﻿  Cat_Snake.cpp
-D:\QQ文件存放处\贪吃的猫猫虫-肯尼迪组\贪吃的猫猫虫-肯尼迪组\Cat_Snake.cpp(809,24): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
-  Cat_Snake.vcxproj -> D:\QQ文件存放处\贪吃的猫猫虫-肯尼迪组\贪吃的猫猫虫-肯尼迪组\x64\Debug\Cat_Snake.exe
+F:\File\project\game\贪吃的猫猫虫GAME\项目源码\Cat_Snake.cpp(809,24): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  Cat_Snake.vcxproj -> F:\File\project\game\贪吃的猫猫虫GAME\项目源码\x64\Debug\Cat_Snake.exe
